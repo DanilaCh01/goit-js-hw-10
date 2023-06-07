@@ -1,11 +1,13 @@
 .cat-info {
     display: flex;
     align-items: center;
+
+    width: 500px;
 }
 
 .image-container img {
-    max-width: 40%;
-    height: auto;
+    /* max-width: 40%;
+    height: auto; */
 }
 
 .cat-image {
