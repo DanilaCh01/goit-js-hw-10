@@ -1,11 +1,11 @@
 .cat-info {
     display: flex;
     align-items: center;
+    width: 650px;
 }
 
 .image-container img {
-width: 40%;
-
+    width: 100%;
 }
 
 .cat-image {
